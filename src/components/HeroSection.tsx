@@ -8,7 +8,7 @@ export default function HeroSection() {
       <div className="container mx-auto px-6 relative z-10">
         <div className="max-w-4xl">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            ООО "Венера"
+            Строительная компания "Венера"
             <span className="block text-construction-blue">Строим будущее</span>
           </h1>
 
